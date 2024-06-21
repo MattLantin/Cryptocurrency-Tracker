@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker
+# Cryptocurrency Tracker (WORK IN PROGRESS)
 
 ## Project Overview
 The Cryptocurrency Tracker is a web application designed to provide users with real-time cryptocurrency price updates, manage personal crypto investments, and offer predictive analytics using AI. The app leverages a C# backend for robust and scalable server-side operations and a React frontend for a dynamic and responsive user experience.
