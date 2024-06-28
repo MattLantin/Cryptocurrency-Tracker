@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CryptocurrencyTrackerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+154f103c9d424f25b7caf6653aba228b1f1fa9c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87f5ab74c1e5aee8106b55ed8b2f5c79183c10a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CryptocurrencyTrackerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CryptocurrencyTrackerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
