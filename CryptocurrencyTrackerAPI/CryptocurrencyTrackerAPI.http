@@ -1,4 +1,4 @@
-@CryptocurrencyTrackerAPI_HostAddress = http://localhost:5264
+@CryptocurrencyTrackerAPI_HostAddress = http://localhost:5076
 
 GET {{CryptocurrencyTrackerAPI_HostAddress}}/weatherforecast/
 Accept: application/json
